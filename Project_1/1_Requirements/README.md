@@ -7,3 +7,10 @@
    |HR02|   	   Print Unlock          |
    |HR03|Alarm Activation/Deactivation|  
    |HR04|   	Print approach light     | 
+   ### Low Level Requirements:
+  | ID |      Low level Requirements      | HR ID|
+  |----|----------------------------------|------|
+  |LR01|All led on at the same time       | HR01 |
+  |LR02|All led off at the same time      | HR02 |
+  |LR03|All led on in clockwise manner    | HR03 |
+  |LR04|All led on in Anticlockwise manner| HR04 |
