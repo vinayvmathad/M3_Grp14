@@ -11,7 +11,9 @@
    |HR01|   Print Window Status    |
    |HR02|   Print Alarm Status     |
    |HR03|   Print Car Battery Info |  
-   |HR04|   Print Door status      |      
+   |HR04|   Print Door status      | 
+
+
 #### Low Level Requirements:
   | ID |      Low level Requirements      | HR ID|
   |----|----------------------------------|------|
