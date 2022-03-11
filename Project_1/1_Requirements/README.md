@@ -37,3 +37,16 @@
   * Bi-directional communication makes this possible. When the door handle is pulled (or some similar trigger is activated) the base unit located within the vehicle emits a short range, low frequency signal – polling for a nearby key fob transponder.
   * If present, the key fob recognizes the signal and responds with a UHF (ultra-high frequency) signal, transmitting a code to be authenticated by the base unit encryption firmware, such as Microchip Technology’s Keylock.
   * Finally, if a proper code is verified, the base unit instructs the vehicle’s central body controller to unlock the door. Of course, all of this takes place within a fraction of a second, without any additional action from the user.
+  * 5W'S and 1H:
+  * WHAT:
+    * It is used to lock and unlock the door without key.
+  * When:
+    * It is used in Cars to lock or unlock.
+  * Who :
+    * It is useful for everyone for example people use for locking and unlocking the car door.
+  * Where:
+    * It is used mainly in cars.
+  * Why:
+    * It is used to lock and unlock the door without key.
+  * How:
+    * It is useful for lock and unlock the door by pressing the button on remote.
