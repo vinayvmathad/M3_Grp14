@@ -1,0 +1,7 @@
+# HIGH LEVEL
+| ID |           Description             |         Input          |         Expected Output          | Actual Output                 |
+|----|-----------------------------------|------------------------|----------------------------------|-----------------------|
+| 01 |           Print lock              |Press Button one time   |    Print lock                     |  Print lock                   |
+| 02 |          Print unlock             |Press Button two times  |   Print unlock                    | Print unlock                 |
+| 03 |Print alarm activation/deactivation|Press Button three times|Print alarm activation/deactivation|Print alarm activation/deactivation|
+| 04 |     	Print approach light         |Press Button four times |	     Print approach light         |	Print approach light         |
