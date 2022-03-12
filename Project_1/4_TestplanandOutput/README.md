@@ -10,5 +10,5 @@
 |----|-----------------------------------------|------------------------|-----------------------------------|-------------------------------|
 | 01 |     Check Print lock                    |Press Button one time   |    All led on                     |  All led on                         |
 | 02 |     Check Print unlock                  |Press Button two times  |       All led off                 |  All led off                        |
-| 03 |Check Print alarm activation/deactivation|Press Button three times|   All led on in clockwise manner  |All led on      |
-| 04 |    Check Print approach light           |Press Button four times |All led on in anti-clockwise manner|All led on |
+| 03 |Check Print alarm activation/deactivation|Press Button three times|   All led on in clockwise manner  |All led on clock wise     |
+| 04 |    Check Print approach light           |Press Button four times |All led on in anti-clockwise manner|All led off anti clock wise |
